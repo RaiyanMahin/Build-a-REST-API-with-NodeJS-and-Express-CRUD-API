@@ -9,11 +9,13 @@
 3. Postman
 4. CRUP API
 
-#CRUD
+# CRUD
 1. Create -> createUser function
 2. Read -> getUser function
 3. Update -> updateUser function
 4. Delete -> deleteUser function
 
 
- 
+ ![patch ID](https://github.com/RaiyanMahin/Build-a-REST-API-with-NodeJS-and-Express-CRUD-API/blob/main/sample%20crud%20application%20through%20postman/Screenshot%20(1630).png?raw=true)
+
+ ![Update Info](https://github.com/RaiyanMahin/Build-a-REST-API-with-NodeJS-and-Express-CRUD-API/blob/main/sample%20crud%20application%20through%20postman/Screenshot%20(1632).png?raw=true)
