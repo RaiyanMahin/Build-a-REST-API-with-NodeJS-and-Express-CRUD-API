@@ -9,4 +9,11 @@
 3. Postman
 4. CRUP API
 
+#CRUD
+1. Create -> createUser function
+2. Read -> getUser function
+3. Update -> updateUser function
+4. Delete -> deleteUser function
+
+
  
